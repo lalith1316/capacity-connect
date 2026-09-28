@@ -12,6 +12,6 @@ For GitHub Pages:
 3. Settings -> Pages -> Deploy from a branch.
 4. Branch: main; Folder: /(root); Save.
 5. The live URL will be:
-   https://YOUR-USERNAME.github.io/capacity-connect/
+   https://lalith1316.github.io/capacityconnect-sih26075
 
 Note: This is a prototype. The learning-gap logic is illustrative and not an official government scoring system.
